@@ -74,10 +74,15 @@ To install the AI-Powered Web Scraper and Chatbot, please follow these steps:
 5. Create a `.env` file in the project directory and add your API keys and the URL to scrape:
 
    ```plaintext
-   GOOGLE_GENAI_API_KEY=your_generativeai_api_key
-   GEMINI_VISION_API_KEY=your_gemini_vision_api_key
-   URL=https://example.com
+      GOOGLE_API_KEY = "your-api-key"
+      URL = 'https://www.scrapethissite.com/pages/ajax-javascript/#2015'
+      
+      #paste the url u want to scrape in URL environment variable
+      #https://www.scrapethissite.com/pages/forms/
+      #https://www.scrapethissite.com/pages/advanced/
    ```
+6. Create two folder
+   - Create a folder named image_saves and scrape
 
 ## Usage
 
