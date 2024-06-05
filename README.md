@@ -1,5 +1,4 @@
 
-```markdown
 # AI-Powered Web Scraper and Chatbot
 
 Welcome to AI-Powered Web Scraper and Chatbot, an advanced Python application designed to scrape web content and provide intelligent conversational capabilities. This project leverages Gemini Vision Pro, Selenium, custom logic, Langchain, and FAISS to extract, process, and interact with data from websites.
@@ -46,7 +45,7 @@ To install the AI-Powered Web Scraper and Chatbot, please follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/AI-Powered-Web-Scraper-Chatbot.git
+   git clone https://github.com/mxlik-ali/Ai-WebScraper.git
    cd AI-Powered-Web-Scraper-Chatbot
    ```
 
@@ -109,6 +108,4 @@ This repository is intended for educational purposes and does not accept further
 ## License
 
 The AI-Powered Web Scraper and Chatbot is released under the MIT License.
-```
 
-Make sure to replace `path/to/your/image.png` with the actual path to your image file. This could be a relative path if the image is stored in the same repository, or an absolute URL if the image is hosted online.
