@@ -106,6 +106,8 @@ To use the AI-Powered Web Scraper and Chatbot, follow these steps:
 
 5. Ask questions in natural language using the chat interface.
 
+6. Remember Scrape only one site at a time (tho it supports multiple page scraping), to scrape another website remove sitemap.json under scrape folder and delete the folder named "faiss-index"
+
 ## Contributing
 
 This repository is intended for educational purposes and does not accept further contributions. Feel free to utilize and enhance the app based on your own requirements.
